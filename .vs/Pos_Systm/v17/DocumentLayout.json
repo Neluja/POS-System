@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|c:\\users\\neluj\\source\\repos\\pos_systm\\pos_systm\\allstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|solutionrelative:pos_systm\\allstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|C:\\Users\\neluj\\source\\repos\\Pos_Systm\\pos_systm\\allstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|solutionrelative:pos_systm\\allstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|c:\\users\\neluj\\source\\repos\\pos_systm\\pos_systm\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|solutionrelative:pos_systm\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|C:\\Users\\neluj\\source\\repos\\Pos_Systm\\pos_systm\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|solutionrelative:pos_systm\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|C:\\Users\\neluj\\source\\repos\\Pos_Systm\\pos_systm\\adddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|solutionrelative:pos_systm\\adddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|c:\\users\\neluj\\source\\repos\\pos_systm\\pos_systm\\addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|solutionrelative:pos_systm\\addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|C:\\Users\\neluj\\source\\repos\\Pos_Systm\\pos_systm\\addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F90340D6-22AA-4044-AB46-F2E25A91911A}|Pos_Systm\\Pos_Systm.csproj|solutionrelative:pos_systm\\addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllStock.cs",
+              "DocumentMoniker": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AllStock.cs",
+              "RelativeDocumentMoniker": "Pos_Systm\\AllStock.cs",
+              "ToolTip": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AllStock.cs",
+              "RelativeToolTip": "Pos_Systm\\AllStock.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBEAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:40:51.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllStock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AllStock.cs",
+              "RelativeDocumentMoniker": "Pos_Systm\\AllStock.cs",
+              "ToolTip": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AllStock.cs [Design]",
+              "RelativeToolTip": "Pos_Systm\\AllStock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:48:18.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AddProduct.cs",
+              "RelativeDocumentMoniker": "Pos_Systm\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AddProduct.cs",
+              "RelativeToolTip": "Pos_Systm\\AddProduct.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAawCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:47:57.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AddProduct.cs",
+              "RelativeDocumentMoniker": "Pos_Systm\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AddProduct.cs [Design]",
+              "RelativeToolTip": "Pos_Systm\\AddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:47:55.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddDiscount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AddDiscount.cs",
+              "RelativeDocumentMoniker": "Pos_Systm\\AddDiscount.cs",
+              "ToolTip": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AddDiscount.cs [Design]",
+              "RelativeToolTip": "Pos_Systm\\AddDiscount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:47:51.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCategory.cs",
+              "DocumentMoniker": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AddCategory.cs",
+              "RelativeDocumentMoniker": "Pos_Systm\\AddCategory.cs",
+              "ToolTip": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AddCategory.cs",
+              "RelativeToolTip": "Pos_Systm\\AddCategory.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:47:12.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AddCategory.cs",
+              "RelativeDocumentMoniker": "Pos_Systm\\AddCategory.cs",
+              "ToolTip": "C:\\Users\\neluj\\source\\repos\\Pos_Systm\\Pos_Systm\\AddCategory.cs [Design]",
+              "RelativeToolTip": "Pos_Systm\\AddCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:47:10.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
